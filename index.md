@@ -1,10 +1,9 @@
-## Portfolio
+## Selected projects in data science and machine learning
 
 ---
 
-### Category Name 1 
+### AllLife Bank Customer Segmentation 
 
-[AllLife Bank Customer Segmentation](/sample_page)
 **Figure 1**: Bivariate Analysis displaying the correlation between every measured variable in the dataset.
 <img src="images/Bivariate Analysis.PNG"/><br>
 **Figure 2**: A Pairplot showing the distribution of each measured variable between one another.
