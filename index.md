@@ -3,7 +3,7 @@
 ---
 
 ### AllLife Bank Customer Segmentation 
-In this academic project, AllLife Bank wants to focus on its credit card customer base in the next financial year. They have been advised by their marketing research team that the penetration in the market can be improved. Based on this input, the marketing team proposes to run personalized campaigns to target new customers in addition to upselling to existing customers. In this project, I conducted a customer segmentation analysis by clustering customers into groups dependent upon the centroid value of each feature, defining clear and targetable market audiences to develop designated marketing campaigns. <br>
+In this academic project, AllLife Bank's marketing research team proposes to run personalized campaigns to target new customers in addition to upselling to existing customers. In this project, I conducted a customer segmentation analysis by clustering customers into groups dependent upon the centroid value of each feature, defining clear and targetable market audiences to develop designated marketing campaigns. <br><br>
 **Figure 1**: Bivariate Analysis displaying the correlation between every measured variable in the dataset.
 <img src="images/Bivariate Analysis.PNG"/><br>
 **Figure 2**: A Pairplot showing the distribution of each measured variable between one another.
@@ -19,7 +19,7 @@ In this academic project, AllLife Bank wants to focus on its credit card custome
 
 During my undergraduate career, one of the earliest academic projects I completed examined the relationship between Alzheimer's and the variability of language in an author's published works over time. This project was able to successfully replicate the findings of Garrard et al. (2005) in their study of Iris Murdoch, who showed a progressive clear-cut decline in lexical diversity.<br><br>
 
-In this project, I utilized Project Gutenberg as a resource for the data that I would examine. Being a retrospective analysis, I chose an author already diagnosed with Alzheimer's to examine their works. I downloaded eBooks from Project Gutenberg and wrote a program in Python to remove spaces, parse text, and remove punctuation from the works in order to retrieve raw vocabulary. Subsequently, I wrote a different program in Python to count and keep track of varied vocabulary in each published work. Lastly, I created a data visualization in order to exemplify how the number of varied words declined over time.
+Being a retrospective analysis, I chose an author diagnosed with Alzheimer's to examine. I downloaded eBooks from Project Gutenberg and wrote a program in Python to remove spaces, parse text, and remove punctuation from the works in order to retrieve raw vocabulary. Subsequently, I wrote a different program in Python to count and keep track of varied vocabulary in each published work. Lastly, I created a data visualization in order to exemplify how the number of varied words declined over time.
 
 ---
 [Project 3 Title](http://example.com/)
