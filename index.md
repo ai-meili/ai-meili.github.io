@@ -21,6 +21,8 @@ During my undergraduate career, one of the earliest academic projects I complete
 
 Being a retrospective analysis, I chose an author diagnosed with Alzheimer's to examine. I downloaded eBooks from Project Gutenberg and wrote a program in Python to remove spaces, parse text, and remove punctuation from the works in order to retrieve raw vocabulary. Subsequently, I wrote a different program in Python to count and keep track of varied vocabulary in each published work. Lastly, I created a data visualization in order to exemplify how the number of varied words declined over time.
 
+<!-- 
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -41,5 +43,5 @@ Being a retrospective analysis, I chose an author diagnosed with Alzheimer's to 
 
 
 ---
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
+<!-- Remove above link if you don't want to attibute --> 
