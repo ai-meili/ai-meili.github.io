@@ -21,11 +21,20 @@ During my undergraduate career, one of the earliest academic projects I complete
 
 Being a retrospective analysis, I chose an author diagnosed with Alzheimer's to examine. I downloaded eBooks from Project Gutenberg and wrote a program in Python to remove spaces, parse text, and remove punctuation from the works in order to retrieve raw vocabulary. Subsequently, I wrote a different program in Python to count and keep track of varied vocabulary in each published work. Lastly, I created a data visualization in order to exemplify how the number of varied words declined over time.
 
-<!-- 
-
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Liability to Asset Customer Conversion in the Banking Environment
+
+In this dataset, the mmajority of a bank's customers are liability customers (depositors) with very few doubling as borrowers (asset customers). The bank is interested in expanding loan business in order to increase profits through interest garnered on personal loans. In this project, I analyzed data using different techniques such as Linear Regression and Decision Tree Classifiers to build a predictive model for the next marketing campaign, offering insight and business recommendations. <br><br>
+
+**Figure 1**:Simple line graph showing the difference and fluctuation in income and credit card averages between asset and non-asset customers.
+<img src="images/Income Fluctuation.PNG"/><br>
+**Figure 2**: Confusion Matrix run on the testing data during initializtion of the ML algorithm. The Confusion Matrix displays only 9% accuracy, indicating that accuracy is not a good metric for evaluatio when measuring the data.
+<img src="images/Test Matrix.PNG"/><br>
+**Figure 3**:A Decision Tree is displayed with the most clear and concise root node, branches, and leaf nodes achieved through a supervised learning ML algorithm utilzing hyperparamter tuning.
+<img src="images/Decision Tree.PNG"/><br>
+
+<!-- 
 
 ---
 
