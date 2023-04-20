@@ -29,9 +29,9 @@ In this dataset, the mmajority of a bank's customers are liability customers (de
 
 **Figure 1**:Simple line graph showing the difference and fluctuation in income and credit card averages between asset and non-asset customers.
 <img src="images/Income Fluctuation.PNG"/><br>
-**Figure 2**: Confusion Matrix run on the testing data during initializtion of the ML algorithm. The Confusion Matrix displays only 9% accuracy, indicating that accuracy is not a good metric for evaluatio when measuring the data.
+**Figure 2**: Confusion Matrix run on the testing data during initializtion of the ML algorithm. The Confusion Matrix displays only 9% accuracy, indicating that accuracy is not a good metric for evaluation when measuring the data.
 <img src="images/Test Matrix.PNG"/><br>
-**Figure 3**:A Decision Tree is displayed with the most clear and concise root node, branches, and leaf nodes achieved through a supervised learning ML algorithm utilzing hyperparamter tuning.
+**Figure 3**: A Decision Tree is displayed with the most clear and concise root node, branches, and leaf nodes achieved through a supervised learning ML algorithm utilzing hyperparamter tuning.
 <img src="images/Decision Tree.PNG"/><br>
 
 <!-- 
