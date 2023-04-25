@@ -32,7 +32,7 @@ In this dataset, the mmajority of a bank's customers are liability customers (de
 **Figure 2**: Confusion Matrix run on the testing data during initializtion of the ML algorithm. The Confusion Matrix displays only 9% accuracy, indicating that accuracy is not a good metric for evaluation when measuring the data.
 <img src="images/Test Matrix.PNG"/><br>
 **Figures 3 & 4**: The first Decision Tree displayed is initialized without any paramteres or tuning, generating a highly complex and convoluted tree. The second Decision Tree displayed has the most clear and concise root node, branches, and leaf nodes achieved through a supervised learning ML algorithm utilzing hyperparamter tuning.
-<img src="images/Complex Tree.PNG"/><br>
+<img src="images/Complex Tree.png"/><br>
 <img src="images/Decision Tree.PNG"/><br>
 
 <!-- 
